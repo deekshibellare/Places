@@ -11,4 +11,4 @@ It consists of
 * A simple views with an image and text.
 
 
-[Screens (https://github.com/deekshibellare/Places/blob/master/Screens.pdf)
+[Screens] (https://github.com/deekshibellare/Places/blob/master/Screens.pdf)
