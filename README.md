@@ -9,3 +9,6 @@ It consists of
 * Expandable view on click of the 'more' button.
 * A circular scroll view displaying images, the images auto scroll after 3 seconds and the user can swipe and scroll the view in either direction.
 * A simple views with an image and text.
+
+
+[Screens (https://github.com/deekshibellare/Places/blob/master/Screens.pdf)
